@@ -1,0 +1,18 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.slick-slider {
+  width: 40rem;
+  margin-left: auto;
+  margin-right: auto;
+  
+}
+
+
+.slick-track {
+  height: 20rem;
+  object-fit: cover;
+
+}
+
